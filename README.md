@@ -1,4 +1,3 @@
-![logo](https://github.com/anandkishore06/anandkishore06/blob/main/20230909_030943_0000.png)
 <h1 align="center">Hi 👋, I'm Anand Kishore</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
