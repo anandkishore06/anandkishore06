@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **React, Javascript and DSA**
+- 💬 Ask me about **React, Javascript, Node JS, Express JS, TypeScript, MongoDB and DSA**
 
 - 📫 How to reach me **anandkishore060@gmail.com**
 
